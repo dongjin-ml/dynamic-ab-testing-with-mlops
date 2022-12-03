@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+numpy
+spacy
+mecab-python
+natto-py
+awscli==1.26.0
+sagemaker==2.113.0
+boto3==1.25.0
+fsspec
+s3fs
+botocore
